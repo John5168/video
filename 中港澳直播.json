@@ -1,0 +1,1792 @@
+{
+ "live": [
+  {
+   "itemid": "uid00",
+   "name": "北京卫视FHD",
+   "num": "0001",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "东方卫视FHD",
+   "num": "0002",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "天津卫视FHD",
+   "num": "0003",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226048/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "重庆卫视FHD",
+   "num": "0004",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "湖南卫视FHD",
+   "num": "0005",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226162/1.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "深圳卫视FHD",
+   "num": "0006",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225938/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "广东卫视FHD",
+   "num": "0007",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "浙江卫视FHD",
+   "num": "0008",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "安徽卫视FHD",
+   "num": "0009",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "江苏卫视FHD",
+   "num": "0010",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "山东卫视FHD",
+   "num": "0011",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "贵州卫视FHD",
+   "num": "0012",
+   "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=66"
+  },
+  {
+   "itemid": "uid00",
+   "name": "四川卫视FHD",
+   "num": "0013",
+   "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "云南卫视HD",
+   "num": "0014",
+   "urllist": "http://61.166.153.32:1180/play/playback/90000001000000050000000000000263/live100001.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "黑龙江卫视FHD",
+   "num": "0015",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225500/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "吉林卫视FHD",
+   "num": "0016",
+   "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=67"
+  },
+  {
+   "itemid": "uid00",
+   "name": "辽宁卫视FHD",
+   "num": "0017",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "广西卫视",
+   "num": "0018",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "江西卫视FHD",
+   "num": "0019",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "东南卫视FHD",
+   "num": "0020",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "河北卫视HD",
+   "num": "0021",
+   "urllist": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "山西卫视",
+   "num": "0022",
+   "urllist": "http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "湖北卫视FHD",
+   "num": "0023",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "河南卫视",
+   "num": "0024",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "青海卫视",
+   "num": "0025",
+   "urllist": "http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "甘肃卫视",
+   "num": "0026",
+   "urllist": "http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "内蒙古卫视",
+   "num": "0027",
+   "urllist": "http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "宁夏卫视",
+   "num": "0028",
+   "urllist": "http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "陕西卫视FHD",
+   "num": "0029",
+   "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "新疆卫视",
+   "num": "0030",
+   "urllist": "http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "西藏卫视",
+   "num": "0031",
+   "urllist": "http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "延边卫视",
+   "num": "0032",
+   "urllist": "http://live.ybtvyun.com/video/s10006-cys/index.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "兵团卫视",
+   "num": "0033",
+   "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "南方卫视",
+   "num": "0034",
+   "urllist": "http://stream1.grtn.cn/tvs2/sd/live.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "旅游卫视",
+   "num": "0035",
+   "urllist": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8#"
+  },
+  {
+   "itemid": "uid00",
+   "name": "山东教育",
+   "num": "0036",
+   "urllist": "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "厦门卫视",
+   "num": "0037",
+   "urllist": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "海南综合",
+   "num": "0038",
+   "urllist": "http://stream1.hnntv.cn/zhpd/sd/live.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "卡酷少儿",
+   "num": "0039",
+   "urllist": "http://223.82.250.72/live/kakukaton/1.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "金鹰卡通",
+   "num": "0040",
+   "urllist": "http://36487.hlsplay.aodianyun.com/guangdianyun_36487/tv_channel_409.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "炫动卡通",
+   "num": "0041",
+   "urllist": "http://223.82.250.72/live/xuandongkaton/1.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "优漫卡通",
+   "num": "0042",
+   "urllist": "http://223.82.250.72/live/youmankaton/1.m3u8"
+  },
+  {
+   "itemid": "uid00",
+   "name": "海峡卫视HD",
+   "num": "0043",
+   "urllist": "http://stream6.fjtv.net/haixia/sd/live.m3u8?_upt=eb75b3741525196442"
+  },
+  {
+   "itemid": "uid00",
+   "name": "广西卫视HD(微信除外的可播放)",
+   "num": "0044",
+   "urllist": "http://222.216.111.82:8088/flv0"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-1 FHD",
+   "num": "0045",
+   "urllist": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-2 FHD",
+   "num": "0046",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-3 FHD",
+   "num": "0047",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226231/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-4 FHD",
+   "num": "0048",
+   "urllist": "http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-5 FHD",
+   "num": "0049",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-5+ FHD",
+   "num": "0050",
+   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-6 FHD",
+   "num": "0051",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227209/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-7 FHD",
+   "num": "0052",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226234/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-8 FHD",
+   "num": "0053",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226235/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-9 FHD",
+   "num": "0054",
+   "urllist": "http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-10 FHD",
+   "num": "0055",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-11",
+   "num": "0056",
+   "urllist": "http://223.110.243.136/PLTV/2510088/224/3221227174/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-12 FHD",
+   "num": "0057",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226228/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-13",
+   "num": "0058",
+   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-14 FHD",
+   "num": "0059",
+   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226229/1.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CCTV-15 HD",
+   "num": "0060",
+   "urllist": "http://qhyx.qhcatv.com:16414/contents39/live/CHANNEL15e09a88ba1a495b852a487d15bb0b15/SD_4535563025885331454/timeshift.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV家庭剧场",
+   "num": "0061",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CIBN嗨播",
+   "num": "0062",
+   "urllist": "http://14.29.60.41/live/5/30/2a87f3cf8e4e4fada053e87dc18808e7.m3u8?type=m3u8.web.cloudplay"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CIBN电影",
+   "num": "0063",
+   "urllist": "http://14.29.60.41/live/5/30/92eda28858154bc9a4b583ea3a3f8e55.m3u8?type=m3u8.web.cloudplay"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV动作电影",
+   "num": "0064",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV惊悚悬疑",
+   "num": "0065",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CIBN喜剧影院",
+   "num": "0066",
+   "urllist": "http://14.29.60.41/live/5/30/f6837f07f8e54acda5963f93447028d1.m3u8?type=m3u8.web.cloudplay"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV精品大剧",
+   "num": "0067",
+   "urllist": "http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV精品体育",
+   "num": "0068",
+   "urllist": "http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV动画王国",
+   "num": "0069",
+   "urllist": "http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV精品电影",
+   "num": "0070",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV明星大片",
+   "num": "0071",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "CHC高清电影",
+   "num": "0072",
+   "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV金牌综艺",
+   "num": "0073",
+   "urllist": "http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8"
+  },
+  {
+   "itemid": "uid01",
+   "name": "NewTV精品记录",
+   "num": "0074",
+   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8"
+  },
+  {
+   "itemid": "uid02",
+   "name": "BBC国际新闻台(HD)",
+   "num": "0075",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13668&contentId=13821"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Boomerang卡通台",
+   "num": "0076",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12818&contentId=12813"
+  },
+  {
+   "itemid": "uid02",
+   "name": "ci",
+   "num": "0077",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13639&contentId=13791"
+  },
+  {
+   "itemid": "uid02",
+   "name": "CNBC",
+   "num": "0078",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13693&contentId=13846"
+  },
+  {
+   "itemid": "uid02",
+   "name": "CNEX DOC CHANNEL",
+   "num": "0079",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13694&contentId=13847"
+  },
+  {
+   "itemid": "uid02",
+   "name": "CNN国际新闻台",
+   "num": "0080",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13643&contentId=13795"
+  },
+  {
+   "itemid": "uid02",
+   "name": "CNN头条新闻台",
+   "num": "0081",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13644&contentId=13796"
+  },
+  {
+   "itemid": "uid02",
+   "name": "CN卡通频道",
+   "num": "0082",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13645&contentId=13797"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Comedy Central",
+   "num": "0083",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13628&contentId=13780"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Davinci 达文西教学台(HD)",
+   "num": "0084",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13625&contentId=13777"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Discovery DMAX频道HD",
+   "num": "0085",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13631&contentId=13783"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Discovery Kids",
+   "num": "0086",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13708&contentId=13861"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Discovery 夏娃台EVE HD",
+   "num": "0087",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13630&contentId=13782"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Discovery科学频道HD",
+   "num": "0088",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13629&contentId=13781"
+  },
+  {
+   "itemid": "uid02",
+   "name": "E Entertainment",
+   "num": "0089",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13689&contentId=13842"
+  },
+  {
+   "itemid": "uid02",
+   "name": "ELTV英语学习频道",
+   "num": "0090",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13983&contentId=14136"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Eurosport",
+   "num": "0091",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13710&contentId=13863"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Fashion one时尚娱乐台(HD)",
+   "num": "0092",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13687&contentId=13840"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Food Network Asia",
+   "num": "0093",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12821&contentId=12815"
+  },
+  {
+   "itemid": "uid02",
+   "name": "FUN流行音乐台",
+   "num": "0094",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11431&contentId=11430"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Fun纬来",
+   "num": "0095",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12450&contentId=12445"
+  },
+  {
+   "itemid": "uid02",
+   "name": "fyi",
+   "num": "0096",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13641&contentId=13793"
+  },
+  {
+   "itemid": "uid02",
+   "name": "GOOD TV一台",
+   "num": "0097",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13696&contentId=13849"
+  },
+  {
+   "itemid": "uid02",
+   "name": "GOOD TV二台",
+   "num": "0098",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13711&contentId=13864"
+  },
+  {
+   "itemid": "uid02",
+   "name": "H2",
+   "num": "0099",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13640&contentId=13792"
+  },
+  {
+   "itemid": "uid02",
+   "name": "HGTV居家乐活",
+   "num": "0100",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12823&contentId=12817"
+  },
+  {
+   "itemid": "uid02",
+   "name": "History",
+   "num": "0101",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13638&contentId=13790"
+  },
+  {
+   "itemid": "uid02",
+   "name": "ifun动漫2台(HD)",
+   "num": "0102",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11367&contentId=11387"
+  },
+  {
+   "itemid": "uid02",
+   "name": "i-Fun动漫台",
+   "num": "0103",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13674&contentId=13827"
+  },
+  {
+   "itemid": "uid02",
+   "name": "KLT-靖天国际台",
+   "num": "0104",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13179&contentId=13330"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Lamigo TV",
+   "num": "0105",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13982&contentId=14135"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Lifetime",
+   "num": "0106",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13664&contentId=13817"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Mens uno",
+   "num": "0107",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13175&contentId=13326"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Mezzo Live HD",
+   "num": "0108",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13712&contentId=13865"
+  },
+  {
+   "itemid": "uid02",
+   "name": "MOMO亲子台",
+   "num": "0109",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13661&contentId=13813"
+  },
+  {
+   "itemid": "uid02",
+   "name": "MTV Live HD",
+   "num": "0110",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13637&contentId=13789"
+  },
+  {
+   "itemid": "uid02",
+   "name": "MY 101 综合台",
+   "num": "0111",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12831&contentId=12825"
+  },
+  {
+   "itemid": "uid02",
+   "name": "MY KIDS TV",
+   "num": "0112",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12832&contentId=12826"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Nice TV",
+   "num": "0113",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13180&contentId=13331"
+  },
+  {
+   "itemid": "uid02",
+   "name": "NICK Jr",
+   "num": "0114",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13627&contentId=13779"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Outdoor Channel",
+   "num": "0115",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13703&contentId=13856"
+  },
+  {
+   "itemid": "uid02",
+   "name": "SBN全球财经台",
+   "num": "0116",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13985&contentId=14138"
+  },
+  {
+   "itemid": "uid02",
+   "name": "SETANTA",
+   "num": "0117",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13709&contentId=13862"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Stingray iConcerts",
+   "num": "0118",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13626&contentId=13778"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Trace Sport Stars",
+   "num": "0119",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13704&contentId=13857"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Trace Urban",
+   "num": "0120",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13705&contentId=13858"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Travel Channel",
+   "num": "0121",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13702&contentId=13855"
+  },
+  {
+   "itemid": "uid02",
+   "name": "TVBS",
+   "num": "0122",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13646&contentId=13798"
+  },
+  {
+   "itemid": "uid02",
+   "name": "TVBS-N",
+   "num": "0123",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13647&contentId=13799"
+  },
+  {
+   "itemid": "uid02",
+   "name": "TVBS欢乐台",
+   "num": "0124",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11424&contentId=11424"
+  },
+  {
+   "itemid": "uid02",
+   "name": "Warner TV HD",
+   "num": "0125",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12820&contentId=12814"
+  },
+  {
+   "itemid": "uid02",
+   "name": "zliving",
+   "num": "0126",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13665&contentId=13818"
+  },
+  {
+   "itemid": "uid02",
+   "name": "八大综艺台",
+   "num": "0127",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13660&contentId=13812"
+  },
+  {
+   "itemid": "uid02",
+   "name": "人间卫视",
+   "num": "0128",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13673&contentId=13826"
+  },
+  {
+   "itemid": "uid02",
+   "name": "三立财经新闻台",
+   "num": "0129",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11419&contentId=11420"
+  },
+  {
+   "itemid": "uid02",
+   "name": "三立新闻HD",
+   "num": "0130",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11422&contentId=11440"
+  },
+  {
+   "itemid": "uid02",
+   "name": "大爱二台",
+   "num": "0131",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13698&contentId=13851"
+  },
+  {
+   "itemid": "uid02",
+   "name": "大爱电视台",
+   "num": "0132",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13642&contentId=13794"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中天亚洲台",
+   "num": "0133",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12819&contentId=12812"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中天新闻台",
+   "num": "0134",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13679&contentId=13832"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中天综合台",
+   "num": "0135",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13650&contentId=13802"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中华财经台",
+   "num": "0136",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11365&contentId=11385"
+  },
+  {
+   "itemid": "uid02",
+   "name": "公视二台",
+   "num": "0137",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13975&contentId=14128"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视台湾台",
+   "num": "0138",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13671&contentId=13824"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视旅游台",
+   "num": "0139",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13655&contentId=13807"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视无线台",
+   "num": "0140",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13669&contentId=13822"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视新闻台",
+   "num": "0141",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13670&contentId=13823"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视综艺台",
+   "num": "0142",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13653&contentId=13805"
+  },
+  {
+   "itemid": "uid02",
+   "name": "民视戏剧台",
+   "num": "0143",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13651&contentId=13803"
+  },
+  {
+   "itemid": "uid02",
+   "name": "台视财经台",
+   "num": "0144",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13675&contentId=13828"
+  },
+  {
+   "itemid": "uid02",
+   "name": "台视无线台",
+   "num": "0145",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13680&contentId=13833"
+  },
+  {
+   "itemid": "uid02",
+   "name": "台视新闻台",
+   "num": "0146",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11417&contentId=11408"
+  },
+  {
+   "itemid": "uid02",
+   "name": "台视综合台",
+   "num": "0147",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11516&contentId=11516"
+  },
+  {
+   "itemid": "uid02",
+   "name": "台湾交通电视台",
+   "num": "0148",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13672&contentId=13825"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中视无线台(HD)",
+   "num": "0149",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13681&contentId=13834"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中视菁采台",
+   "num": "0150",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13684&contentId=13837"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中视菁采台",
+   "num": "0151",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13684&contentId=13837"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中视新闻台",
+   "num": "0152",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13682&contentId=13835"
+  },
+  {
+   "itemid": "uid02",
+   "name": "中视经典台",
+   "num": "0153",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13683&contentId=13836"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华研音乐台",
+   "num": "0154",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13649&contentId=13801"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华研娱乐台",
+   "num": "0155",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13663&contentId=13816"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华视无线台",
+   "num": "0156",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13676&contentId=13829"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华视新闻资讯台",
+   "num": "0157",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13677&contentId=13830"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华语音乐现场",
+   "num": "0158",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11436&contentId=11435"
+  },
+  {
+   "itemid": "uid02",
+   "name": "华藏卫视",
+   "num": "0159",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13979&contentId=14132"
+  },
+  {
+   "itemid": "uid02",
+   "name": "公视戏剧",
+   "num": "0160",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13700&contentId=13853"
+  },
+  {
+   "itemid": "uid02",
+   "name": "天映经典台",
+   "num": "0161",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13707&contentId=13860"
+  },
+  {
+   "itemid": "uid02",
+   "name": "日舞电影台AMC",
+   "num": "0162",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13624&contentId=13776"
+  },
+  {
+   "itemid": "uid02",
+   "name": "古典音乐台",
+   "num": "0163",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13666&contentId=13819"
+  },
+  {
+   "itemid": "uid02",
+   "name": "半岛电视台",
+   "num": "0164",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13678&contentId=13831"
+  },
+  {
+   "itemid": "uid02",
+   "name": "生命电视台",
+   "num": "0165",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13980&contentId=14133"
+  },
+  {
+   "itemid": "uid02",
+   "name": "优电影一台",
+   "num": "0166",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13656&contentId=13808"
+  },
+  {
+   "itemid": "uid02",
+   "name": "优电影二台",
+   "num": "0167",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13657&contentId=13809"
+  },
+  {
+   "itemid": "uid02",
+   "name": "优电影三台",
+   "num": "0168",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13658&contentId=13810"
+  },
+  {
+   "itemid": "uid02",
+   "name": "西洋强档电影台",
+   "num": "0169",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11425&contentId=11425"
+  },
+  {
+   "itemid": "uid02",
+   "name": "亚洲人气戏剧台",
+   "num": "0170",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11429&contentId=11441"
+  },
+  {
+   "itemid": "uid02",
+   "name": "亚洲美食频道AFC",
+   "num": "0171",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12822&contentId=12816"
+  },
+  {
+   "itemid": "uid02",
+   "name": "亚洲旅游台",
+   "num": "0172",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11462&contentId=11462"
+  },
+  {
+   "itemid": "uid02",
+   "name": "亚洲院线电影台",
+   "num": "0173",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11426&contentId=11426"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森生活台",
+   "num": "0174",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13654&contentId=13806"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森亚洲幼幼台",
+   "num": "0175",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13699&contentId=13852"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森亚洲新闻台",
+   "num": "0176",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13633&contentId=13785"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森亚洲卫视台",
+   "num": "0177",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13634&contentId=13786"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森财经新闻",
+   "num": "0178",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13636&contentId=13788"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森新闻台",
+   "num": "0179",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13635&contentId=13787"
+  },
+  {
+   "itemid": "uid02",
+   "name": "东森综艺台",
+   "num": "0180",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13652&contentId=13804"
+  },
+  {
+   "itemid": "uid02",
+   "name": "空中英语教学台",
+   "num": "0181",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13648&contentId=13800"
+  },
+  {
+   "itemid": "uid02",
+   "name": "采昌影剧台",
+   "num": "0182",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13697&contentId=13850"
+  },
+  {
+   "itemid": "uid02",
+   "name": "非凡美食",
+   "num": "0183",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13173&contentId=13324"
+  },
+  {
+   "itemid": "uid02",
+   "name": "非凡旅游",
+   "num": "0184",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13174&contentId=13325"
+  },
+  {
+   "itemid": "uid02",
+   "name": "非凡商业台",
+   "num": "0185",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11328&contentId=11346"
+  },
+  {
+   "itemid": "uid02",
+   "name": "非凡新闻HD",
+   "num": "0186",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11327&contentId=11345"
+  },
+  {
+   "itemid": "uid02",
+   "name": "哈Hot!电影台",
+   "num": "0187",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13659&contentId=13811"
+  },
+  {
+   "itemid": "uid02",
+   "name": "美国之音-VOA",
+   "num": "0188",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13632&contentId=13784"
+  },
+  {
+   "itemid": "uid02",
+   "name": "风潮综合台",
+   "num": "0189",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13176&contentId=13327"
+  },
+  {
+   "itemid": "uid02",
+   "name": "原住民族电视台",
+   "num": "0190",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11418&contentId=11409"
+  },
+  {
+   "itemid": "uid02",
+   "name": "时代影像台",
+   "num": "0191",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13183&contentId=13334"
+  },
+  {
+   "itemid": "uid02",
+   "name": "时尚运动X",
+   "num": "0192",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13686&contentId=13839"
+  },
+  {
+   "itemid": "uid02",
+   "name": "唯心电视台",
+   "num": "0193",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13977&contentId=14130"
+  },
+  {
+   "itemid": "uid02",
+   "name": "国际电影台",
+   "num": "0194",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13182&contentId=13333"
+  },
+  {
+   "itemid": "uid02",
+   "name": "梅迪奇艺术频道",
+   "num": "0195",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13988&contentId=14141"
+  },
+  {
+   "itemid": "uid02",
+   "name": "麦卡贝运动频道",
+   "num": "0196",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13981&contentId=14134"
+  },
+  {
+   "itemid": "uid02",
+   "name": "麦卡贝网路电视HD",
+   "num": "0197",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11423&contentId=11422"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯足球台",
+   "num": "0198",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11454&contentId=11458"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯高球二台",
+   "num": "0199",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11456&contentId=11456"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯高球台",
+   "num": "0200",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11457&contentId=11455"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯无限台",
+   "num": "0201",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11452&contentId=11461"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯运动台",
+   "num": "0202",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11455&contentId=11457"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯网球台",
+   "num": "0203",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11453&contentId=11459"
+  },
+  {
+   "itemid": "uid02",
+   "name": "博斯魅力台",
+   "num": "0204",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11458&contentId=11460"
+  },
+  {
+   "itemid": "uid02",
+   "name": "智林体育台",
+   "num": "0205",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13706&contentId=13859"
+  },
+  {
+   "itemid": "uid02",
+   "name": "发现音乐MV",
+   "num": "0206",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11438&contentId=11437"
+  },
+  {
+   "itemid": "uid02",
+   "name": "发现音乐演唱直播",
+   "num": "0207",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13177&contentId=13328"
+  },
+  {
+   "itemid": "uid02",
+   "name": "爱尔达娱乐台",
+   "num": "0208",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13701&contentId=13854"
+  },
+  {
+   "itemid": "uid02",
+   "name": "新唐人亚太台",
+   "num": "0209",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13984&contentId=14137"
+  },
+  {
+   "itemid": "uid02",
+   "name": "暗光鸟电影院",
+   "num": "0210",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12451&contentId=12444"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖天日本台",
+   "num": "0211",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11442&contentId=11433"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖天卡通台",
+   "num": "0212",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11439&contentId=11434"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖天映画台",
+   "num": "0213",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13692&contentId=13845"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖天电影台",
+   "num": "0214",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13691&contentId=13844"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖天戏剧台",
+   "num": "0215",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13178&contentId=13329"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖洋卡通台Nice Bingo",
+   "num": "0216",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13181&contentId=13332"
+  },
+  {
+   "itemid": "uid02",
+   "name": "靖洋戏剧台",
+   "num": "0217",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13690&contentId=13843"
+  },
+  {
+   "itemid": "uid02",
+   "name": "影迷数位电影台",
+   "num": "0218",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13695&contentId=13848"
+  },
+  {
+   "itemid": "uid02",
+   "name": "热播华语戏剧台",
+   "num": "0219",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11427&contentId=11427"
+  },
+  {
+   "itemid": "uid02",
+   "name": "猪哥亮歌厅秀",
+   "num": "0220",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13662&contentId=13814"
+  },
+  {
+   "itemid": "uid02",
+   "name": "随身娱乐综艺台",
+   "num": "0221",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11430&contentId=11429"
+  },
+  {
+   "itemid": "uid02",
+   "name": "龙华日韩剧",
+   "num": "0222",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11460&contentId=11464"
+  },
+  {
+   "itemid": "uid02",
+   "name": "龙华卡通台",
+   "num": "0223",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13188&contentId=13338"
+  },
+  {
+   "itemid": "uid02",
+   "name": "龙华偶像剧",
+   "num": "0224",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11459&contentId=11463"
+  },
+  {
+   "itemid": "uid02",
+   "name": "龙华电影台",
+   "num": "0225",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13187&contentId=13339"
+  },
+  {
+   "itemid": "uid02",
+   "name": "龙华戏剧台",
+   "num": "0226",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=11461&contentId=11465"
+  },
+  {
+   "itemid": "uid02",
+   "name": "韩国娱乐台KMTV",
+   "num": "0227",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=13685&contentId=13838"
+  },
+  {
+   "itemid": "uid02",
+   "name": "鸿基亚洲台",
+   "num": "0228",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12824&contentId=12818"
+  },
+  {
+   "itemid": "uid02",
+   "name": "鸿基综合台",
+   "num": "0229",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12825&contentId=12819"
+  },
+  {
+   "itemid": "uid02",
+   "name": "鸿基影剧台",
+   "num": "0230",
+   "urllist": "http://www.iptv.wang/wowotv.php?streamingId=12826&contentId=12820"
+  },
+  {
+   "itemid": "uid03",
+   "name": "民视HD",
+   "num": "0231",
+   "urllist": "http://www.iptv.wang/gego.php?id=mshd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "台视HD",
+   "num": "0232",
+   "urllist": "http://www.iptv.wang/gego.php?id=tshd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "华视HD",
+   "num": "0233",
+   "urllist": "http://www.iptv.wang/gego.php?id=hshd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "公视HD",
+   "num": "0234",
+   "urllist": "http://www.iptv.wang/gego.php?id=gshd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森新闻",
+   "num": "0235",
+   "urllist": "http://www.iptv.wang/gego.php?id=dsxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森电影",
+   "num": "0236",
+   "urllist": "http://www.iptv.wang/gego.php?id=dsdy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森洋片",
+   "num": "0237",
+   "urllist": "http://www.iptv.wang/gego.php?id=dyyp"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森戏剧",
+   "num": "0238",
+   "urllist": "http://www.iptv.wang/gego.php?id=dsxj"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森超视",
+   "num": "0239",
+   "urllist": "http://www.iptv.wang/gego.php?id=dscs"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森财经",
+   "num": "0240",
+   "urllist": "http://www.iptv.wang/gego.php?id=dscj"
+  },
+  {
+   "itemid": "uid03",
+   "name": "东森幼幼",
+   "num": "0241",
+   "urllist": "http://www.iptv.wang/gego.php?id=dsyy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "纬来综合",
+   "num": "0242",
+   "urllist": "http://www.iptv.wang/gego.php?id=wlzh"
+  },
+  {
+   "itemid": "uid03",
+   "name": "纬来电影",
+   "num": "0243",
+   "urllist": "http://www.iptv.wang/gego.php?id=wldy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "纬来戏剧",
+   "num": "0244",
+   "urllist": "http://www.iptv.wang/gego.php?id=wlxj"
+  },
+  {
+   "itemid": "uid03",
+   "name": "纬来体育",
+   "num": "0245",
+   "urllist": "http://www.iptv.wang/gego.php?id=wlty"
+  },
+  {
+   "itemid": "uid03",
+   "name": "纬来日本",
+   "num": "0246",
+   "urllist": "http://www.iptv.wang/gego.php?id=wlrb"
+  },
+  {
+   "itemid": "uid03",
+   "name": "三立新闻",
+   "num": "0247",
+   "urllist": "http://www.iptv.wang/gego.php?id=slxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "三立都会",
+   "num": "0248",
+   "urllist": "http://www.iptv.wang/gego.php?id=sldh"
+  },
+  {
+   "itemid": "uid03",
+   "name": "三立台湾",
+   "num": "0249",
+   "urllist": "http://www.iptv.wang/gego.php?id=sltw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "中天综合",
+   "num": "0250",
+   "urllist": "http://www.iptv.wang/gego.php?id=ztzh"
+  },
+  {
+   "itemid": "uid03",
+   "name": "中天新闻",
+   "num": "0251",
+   "urllist": "http://www.iptv.wang/gego.php?id=ztxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "中天亚洲",
+   "num": "0252",
+   "urllist": "http://www.iptv.wang/gego.php?id=ztyz"
+  },
+  {
+   "itemid": "uid03",
+   "name": "中天娱乐",
+   "num": "0253",
+   "urllist": "http://www.iptv.wang/gego.php?id=ztyl"
+  },
+  {
+   "itemid": "uid03",
+   "name": "八大综合",
+   "num": "0254",
+   "urllist": "http://www.iptv.wang/gego.php?id=bdzh"
+  },
+  {
+   "itemid": "uid03",
+   "name": "八大第一",
+   "num": "0255",
+   "urllist": "http://www.iptv.wang/gego.php?id=bddy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "八大戏剧",
+   "num": "0256",
+   "urllist": "http://www.iptv.wang/gego.php?id=bdxj"
+  },
+  {
+   "itemid": "uid03",
+   "name": "博斯网球",
+   "num": "0257",
+   "urllist": "http://www.iptv.wang/gego.php?id=bswq"
+  },
+  {
+   "itemid": "uid03",
+   "name": "博斯无限",
+   "num": "0258",
+   "urllist": "http://www.iptv.wang/gego.php?id=bswx"
+  },
+  {
+   "itemid": "uid03",
+   "name": "博斯电玩",
+   "num": "0259",
+   "urllist": "http://www.iptv.wang/gego.php?id=bsdw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "博斯高球",
+   "num": "0260",
+   "urllist": "http://www.iptv.wang/gego.php?id=bsgq"
+  },
+  {
+   "itemid": "uid03",
+   "name": "非凡商业",
+   "num": "0261",
+   "urllist": "http://www.iptv.wang/gego.php?id=ffsy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "非凡新闻",
+   "num": "0262",
+   "urllist": "http://www.iptv.wang/gego.php?id=ffxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "年代新闻",
+   "num": "0263",
+   "urllist": "http://www.iptv.wang/gego.php?id=ndxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "民视新闻",
+   "num": "0264",
+   "urllist": "http://www.iptv.wang/gego.php?id=msxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "中视新闻",
+   "num": "0265",
+   "urllist": "http://www.iptv.wang/gego.php?id=zsxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "台视新闻",
+   "num": "0266",
+   "urllist": "http://www.iptv.wang/gego.php?id=tsxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "壹电视新闻",
+   "num": "0267",
+   "urllist": "http://www.iptv.wang/gego.php?id=ydsxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "国兴卫视",
+   "num": "0268",
+   "urllist": "http://www.iptv.wang/gego.php?id=gxws"
+  },
+  {
+   "itemid": "uid03",
+   "name": "人间卫视",
+   "num": "0269",
+   "urllist": "http://www.iptv.wang/gego.php?id=rjws"
+  },
+  {
+   "itemid": "uid03",
+   "name": "大爱电视",
+   "num": "0270",
+   "urllist": "http://www.iptv.wang/gego.php?id=da"
+  },
+  {
+   "itemid": "uid03",
+   "name": "龙祥电影",
+   "num": "0271",
+   "urllist": "http://www.iptv.wang/gego.php?id=lsdy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "迪士尼卡通",
+   "num": "0272",
+   "urllist": "http://www.iptv.wang/gego.php?id=dsn"
+  },
+  {
+   "itemid": "uid03",
+   "name": "韩国娱乐台",
+   "num": "0273",
+   "urllist": "http://www.iptv.wang/gego.php?id=hgyl"
+  },
+  {
+   "itemid": "uid03",
+   "name": "卫视电影台",
+   "num": "0274",
+   "urllist": "http://www.iptv.wang/gego.php?id=wsdy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "卫视洋片台",
+   "num": "0275",
+   "urllist": "http://www.iptv.wang/gego.php?id=wsyp"
+  },
+  {
+   "itemid": "uid03",
+   "name": "星卫电影台",
+   "num": "0276",
+   "urllist": "http://www.iptv.wang/gego.php?id=xwdy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "动物星球",
+   "num": "0277",
+   "urllist": "http://www.iptv.wang/gego.php?id=dwxq"
+  },
+  {
+   "itemid": "uid03",
+   "name": "探索频道",
+   "num": "0278",
+   "urllist": "http://www.iptv.wang/gego.php?id=tspd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "探索科学",
+   "num": "0279",
+   "urllist": "http://www.iptv.wang/gego.php?id=tskx"
+  },
+  {
+   "itemid": "uid03",
+   "name": "国家地理",
+   "num": "0280",
+   "urllist": "http://www.iptv.wang/gego.php?id=gjdl"
+  },
+  {
+   "itemid": "uid03",
+   "name": "Z频道",
+   "num": "0281",
+   "urllist": "http://www.iptv.wang/gego.php?id=zpd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "JET综合",
+   "num": "0282",
+   "urllist": "http://www.iptv.wang/gego.php?id=jet"
+  },
+  {
+   "itemid": "uid03",
+   "name": "TLC旅游",
+   "num": "0283",
+   "urllist": "http://www.iptv.wang/gego.php?id=tlc"
+  },
+  {
+   "itemid": "uid03",
+   "name": "MOMO亲子",
+   "num": "0284",
+   "urllist": "http://www.iptv.wang/gego.php?id=momo"
+  },
+  {
+   "itemid": "uid03",
+   "name": "BOOM卡通",
+   "num": "0285",
+   "urllist": "http://www.iptv.wang/gego.php?id=kdpd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "索尼动画",
+   "num": "0286",
+   "urllist": "http://www.iptv.wang/gego.php?id=sndh"
+  },
+  {
+   "itemid": "uid03",
+   "name": "TVBS新闻",
+   "num": "0287",
+   "urllist": "http://www.iptv.wang/gego.php?id=tvbsxw"
+  },
+  {
+   "itemid": "uid03",
+   "name": "AXN台湾",
+   "num": "0288",
+   "urllist": "http://www.iptv.wang/gego.php?id=axn"
+  },
+  {
+   "itemid": "uid03",
+   "name": "HBO HD",
+   "num": "0289",
+   "urllist": "http://www.iptv.wang/gego.php?id=hbohd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "FOX HD",
+   "num": "0290",
+   "urllist": "http://www.iptv.wang/gego.php?id=foxhd"
+  },
+  {
+   "itemid": "uid03",
+   "name": "FOX电影",
+   "num": "0291",
+   "urllist": "http://www.iptv.wang/gego.php?id=foxdy"
+  },
+  {
+   "itemid": "uid03",
+   "name": "FOX家庭",
+   "num": "0292",
+   "urllist": "http://www.iptv.wang/gego.php?id=foxjt"
+  },
+  {
+   "itemid": "uid03",
+   "name": "FOX体育3",
+   "num": "0293",
+   "urllist": "http://www.iptv.wang/gego.php?id=fox3"
+  },
+  {
+   "itemid": "uid03",
+   "name": "GOLF",
+   "num": "0294",
+   "urllist": "http://www.iptv.wang/gego.php?id=grf"
+  },
+  {
+   "itemid": "uid03",
+   "name": "V音乐台",
+   "num": "0295",
+   "urllist": "http://www.iptv.wang/gego.php?id=vyyt"
+  }
+ ],
+ "type": [
+  {
+   "id": "uid00",
+   "name": "卫视"
+  },
+  {
+   "id": "uid01",
+   "name": "央视"
+  },
+  {
+   "id": "uid02",
+   "name": "台湾WoWoTV"
+  },
+  {
+   "id": "uid03",
+   "name": "台湾Gego"
+  }
+ ]
+}
